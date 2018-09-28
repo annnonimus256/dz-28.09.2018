@@ -1,0 +1,11 @@
+.conteiner {
+    display: flex;
+    justify-content: space-around;
+}
+.item a {
+    
+    width: 33%;
+    text-align: center;
+    
+}
+
